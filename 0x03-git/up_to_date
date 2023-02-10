@@ -1,0 +1,10 @@
+#!/bin/bash
+echo " git add 
+git commit
+git push
+git init
+git config
+git status 
+git merge
+git branch
+git checkout "
