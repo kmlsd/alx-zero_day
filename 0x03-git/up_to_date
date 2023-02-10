@@ -1,5 +1,11 @@
 #!/bin/bash
-git add .
-git commit -m
+git add 
+git commit
 git push
+git init
+git config
+git status 
+git merge
+git branch
+git checkout
 
